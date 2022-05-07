@@ -12,8 +12,9 @@ I'm a hobbyist and I'm currently working on a Discord bot.
 
 
 ## 🛠 Skills
-Javascript is my main programming language. I'm still learning and I'm currently using it for:
+Javascript is my main programming language. I'm still learning it and I'm currently using it for:
 - Discord Bots
+- Front end
 
 #
 
