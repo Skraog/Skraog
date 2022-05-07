@@ -16,9 +16,7 @@ Javascript is my main programming language. I'm still learning it and I'm curren
 - Discord Bots
 - Front end
 
-## 💻 Projects
-
-1.  [Discord Bot](https://github.com/Skraog/DiscordBot/) 
+## 💻 Main Project
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Skraog/DiscordBot?style=for-the-badge) 
 
