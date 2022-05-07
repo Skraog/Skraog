@@ -21,5 +21,3 @@ Javascript is my main programming language. I'm still learning it and I'm curren
 ![GitHub last commit](https://img.shields.io/github/last-commit/Skraog/DiscordBot?style=for-the-badge) 
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Skraog/DiscordBot?style=for-the-badge)
-
-#
