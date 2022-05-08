@@ -10,12 +10,6 @@ I'm a hobbyist and I'm currently working on a Discord bot.
 
 👯‍♀️ I'm looking to collaborate on my main project
 
-
-## 🛠 Skills
-Javascript is my main programming language. I'm still learning it and I'm currently using it for:
-- Discord Bots
-- Front end
-
 ## 💻 Main Project
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Skraog/DiscordBot?style=for-the-badge) 
