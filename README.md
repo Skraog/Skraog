@@ -12,6 +12,6 @@ I'm a hobbyist and I'm currently working on a Discord bot.
 
 ## 💻 Main Project
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Skraog/DiscordBot?style=for-the-badge) 
+![GitHub last commit](https://img.shields.io/github/last-commit/Skraog/Turtle?style=for-the-badge) 
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Skraog/DiscordBot?style=for-the-badge)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Skraog/Turtle?style=for-the-badge)
